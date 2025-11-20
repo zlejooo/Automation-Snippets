@@ -12,7 +12,7 @@
 # Script Name   : ChoiceMenu.ps1
 # Author        : zlejooo
 # Created.      : 2025-11-20
-# Version.      : 1.0.0
+# Version.      : 1.0.1
 # Description   : Choice menu example script
 # Requirements  :
 # Notes         :
@@ -20,7 +20,7 @@
 
 Clear-Host
 Write-Host "=======================================" -ForegroundColor Yellow
-Write-Host "               Choiser menu            " -ForegroundColor Yellow
+Write-Host "               Chooser menu            " -ForegroundColor Yellow
 Write-Host "=======================================" -ForegroundColor Yellow
 Write-Host "1 - Option 1"  -ForegroundColor Green
 Write-Host "2 - Option 2"  -ForegroundColor Green
